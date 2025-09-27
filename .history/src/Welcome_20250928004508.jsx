@@ -24,7 +24,7 @@ function Welcome() {
         <li>Supportive Community</li>
       </ul>
 
-      <button className="button" onClick={() => alert("Thank you for joining! Toll Free No. 9065834810")}>
+      <button className="button" onClick={() => alert("Thank you for joining! Toll Free")}>
         Join Now
       </button>
     </section>
